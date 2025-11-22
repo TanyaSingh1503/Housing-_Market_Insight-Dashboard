@@ -41,7 +41,7 @@ Homes in excellent condition show the highest average sale price, while those in
 8. Zipcode
 
 ## Dashboard Preview
-![Housing Dashboard](IMAGE-LINK-HERE)
+![Housing Dashboard](https://raw.githubusercontent.com/TanyaSingh1503/Housing-_Market_Insight-Dashboard/refs/heads/main/Housing_Market_Insight%20Dashboard.png)
 
 
 ## Dashboard Walkthrough Video
