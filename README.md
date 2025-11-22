@@ -1,13 +1,15 @@
 # Housing-_Market_Insight-Dashboard
 This dashboard provides a comprehensive analysis of housing sales across various zip codes, highlighting total sales volume, number of houses sold, and key property characteristics influencing sale prices. Through interactive visuals, users can explore trends based on bedrooms, condition, grade, year sold, and geographic distribution.
 
-##Key Insights from the Housing Market Insights Dashboard
+## Tech Stack: Power BI, Excel Dataset, Data Cleaning in Power Query, DAX Measures
+
+## Key Insights from the Housing Market Insights Dashboard
 
 1. Strong Market Activity:
 The housing market shows a total sale value of 11,673M from 21.44K houses sold across 71 zip codes, reflecting a highly active and geographically diverse real estate market.
 
 2. Bedrooms Impact Sale Price:
-Houses with 6–8 bedrooms achieve the highest sale prices, indicating strong buyer preference for mid-large-sized homes. Prices drop slightly beyond 8 bedrooms, suggesting limited demand for very large properties.
+Houses with 6–8 bedrooms achieve the highest sale prices, indicating strong buyer preference for mid-sized to large homes. Prices drop slightly beyond 8 bedrooms, suggesting limited demand for very large properties.
 
 3. Yearly Sales Growth:
 The number of houses sold increased significantly from 2016 to 2017, highlighting a growing housing demand and positive market momentum.
@@ -26,3 +28,22 @@ The latitude–longitude scatter plot reveals clusters of high-density housing r
 
 8. Condition vs Sale Price Relationship:
 Homes in excellent condition show the highest average sale price, while those in bad or okay condition fall at the lower end of the price spectrum, reinforcing the role of maintenance and property upkeep in market value.
+
+
+## Dataset Features
+1. Sale Price
+2. Bedrooms, Bathrooms
+3. Overall grade
+4. House Condition
+5. Waterfront status
+6. Year sold
+7. Latitude & Longitude
+8. Zipcode
+
+## Dashboard Preview
+![Housing Dashboard](IMAGE-LINK-HERE)
+
+
+## Dashboard Walkthrough Video
+Watch the video here: [Google Drive Link](https://drive.google.com/file/d/1FyCIR0CvT20IspTmIXV-u_CFZQasqDwA/view?usp=sharing)
+
